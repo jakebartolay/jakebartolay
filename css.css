@@ -65,3 +65,7 @@ spann {
     -ms-transform: skew(10deg, 25deg);
     transform: skew(10deg, 25deg);
   }
+
+  .text-md {
+    font-size: 60%;
+}
