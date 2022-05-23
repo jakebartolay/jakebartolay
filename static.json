@@ -1,6 +1,5 @@
 {
     "root": 
-        "/**": "css.css",
         "/**": "index.html",
     "clean_urls": true,
     "https_only": true,
