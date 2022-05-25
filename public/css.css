@@ -66,3 +66,11 @@ spann {
   .text-md {
     font-size: 72%;
 }
+
+.fa {
+    font-size: 25px;
+  }
+  
+.checked {
+    color: orange;
+}
