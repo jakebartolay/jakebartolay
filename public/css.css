@@ -73,3 +73,12 @@ spann {
 .checked {
     color: orange;
 }
+
+@media (max-width: 400px) {
+.fa, .checked {
+      width: 100%;
+    }
+.right {
+      display: none;
+    }
+}
