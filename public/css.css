@@ -82,3 +82,9 @@ spann {
       display: none;
     }
 }
+@media (max-width: 380px) {
+    .fa, .checked {
+          width: 100%;
+          font-size: 20px;
+        }
+    }
