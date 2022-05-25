@@ -78,9 +78,6 @@ spann {
 .fa, .checked {
       width: 100%;
     }
-.right {
-      display: none;
-    }
 }
 @media (max-width: 380px) {
     .fa, .checked {
