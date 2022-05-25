@@ -90,6 +90,6 @@ color-blue{
     color: blue;
 }
 
-.ul .li a{
+a:link {
     text-decoration: none;
 }
