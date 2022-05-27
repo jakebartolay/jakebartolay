@@ -63,7 +63,7 @@ spann {
   }
 
   .text-md {
-    font-size: 60%;
+    font-size: 70%;
 }
 
 .fa {
@@ -77,12 +77,14 @@ spann {
 @media (max-width: 400px) {
 .fa, .checked {
       width: 100%;
+      display: inline;
     }
 }
 @media (max-width: 380px) {
     .fa, .checked {
           width: 100%;
           font-size: 20px;
+          display: inline;
         }
     }
 
