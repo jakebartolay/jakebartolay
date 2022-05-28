@@ -3,6 +3,17 @@
     font-family: 'consolas';
 }
 
+::-webkit-scrollbar{
+    width: 20px;
+}
+
+::-webkit-scrollbar{
+    background-color: #dddddd;
+}
+
+::-webkit-scrollbar{
+    background: rgba(34, 245, 6, 0.808);
+}
 .sub-color{
     color: rgba(34, 245, 6, 0.808);
 }
@@ -22,7 +33,7 @@ hr.new4 {
     border: 1px solid rgba(34, 245, 6, 0.808);
 }
 
-little{
+.little{
     font-size: 80%;
     position: absolute;
 }
