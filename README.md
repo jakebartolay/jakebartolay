@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://jakebartolay.herokuapp.com/" title="jakebartolay">
-<img align="center" src="https://raw.githubusercontent.com/jakebartolay/jakebartolay/main/public/profile/ben19.jpg" style="border-radius:50%"></a>
+<img align="center" src="https://c.tenor.com/oxJx8tZdKq0AAAAd/ben-10.gif"></a>
 </p>
 <h1 align="center">HELLO! 👋</h1>
 <p align="center">
