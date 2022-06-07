@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">HELLO! 👋</h1>
 <p align="center">
-I'm jake bartolay I'm currently studying Web Developer and Computer Machine.
+I'm Jake Bartolay I'm currently studying Web Developer and Computer Machine.
 </p>
 
 ## 📊 Stats
