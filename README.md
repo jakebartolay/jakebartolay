@@ -1,11 +1,14 @@
+<p align="center">
 <a href="https://jakebartolay.herokuapp.com/" title="jakebartolay">
 <img align="center" src="https://raw.githubusercontent.com/jakebartolay/jakebartolay/main/public/profile/ben19.jpg" style="border-radius:50%"></a>
-
-
-#### I'm jake bartolay from the philippines 
-#### I'm currently studying web developer and computer machine 
-#### I'm an IT STUDENT at Bestlink College of the Philippines.
-
+</p>
+<h1 align="center">HELLO! 👋</h1>
+<p align="center">
+I'm jake bartolay I'm currently studying Web Developer and Computer Machine.
+</p>
+<p align="center">
+  </p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakebartolay&show_icons=true&theme=radical)
 
 
