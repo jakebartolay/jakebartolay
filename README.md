@@ -6,12 +6,24 @@
 <p align="center">
 I'm jake bartolay I'm currently studying Web Developer and Computer Machine.
 </p>
-<p align="center">
-  </p>
+
+## 📊 Stats
+
+<details>
+  <summary>Github Stats</summary>
+  <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakebartolay&show_icons=true&theme=radical)
+  ![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakebartolay&theme=merko)
+  
+</details>
 
+<details>
+  <summary>Top Languages Stats</summary>
+  <br>
+  
+  ![Jake's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jakebartolay&theme=merko)
 
+</details>
 
 <!--
 **jakebartolay/jakebartolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
