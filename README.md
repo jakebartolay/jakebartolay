@@ -6,7 +6,7 @@
 #### I'm currently studying web developer and computer machine 
 #### I'm an IT STUDENT at Bestlink College of the Philippines.
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakebartolay&show_icons=true&theme=radical)
 
 
 
