@@ -1,4 +1,14 @@
-##### Hi there 👋
+<a href="https://jakebartolay.herokuapp.com/" title="jakebartolay">
+<img align="center" src="https://raw.githubusercontent.com/jakebartolay/jakebartolay/main/public/profile/ben19.jpg" style="border-radius:50%"></a>
+
+
+#### I'm jake bartolay from the philippines 
+#### I'm currently studying web developer and computer machine 
+#### I'm an IT STUDENT at Bestlink College of the Philippines.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakebartolay&show_icons=true&theme=radical)
+
+
 
 <!--
 **jakebartolay/jakebartolay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
