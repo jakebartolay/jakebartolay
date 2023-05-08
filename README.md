@@ -9,8 +9,13 @@ I'm Jake Bartolay I'm currently studying Web Developer and Computer Machine.
 
 ## 📊 My Github Stats
 
-  <br/>
-data-canonical-src="https://github-readme-stats.vercel.app/api?username=jakebartolay&theme=merko"
+<details>
+  <summary>Github Stats</summary>
+  <br>
+  
+  ![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakebartolay&theme=merko)
+  
+</details>
 
 <details>
   <summary>Top Languages Stats</summary>
