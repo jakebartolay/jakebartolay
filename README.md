@@ -1,11 +1,13 @@
-hi, i'm [Jake Bartolay](https://jakebartolay.vercel.app/), a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+##### Hi, i'm [Jake Bartolay](https://jakebartolay.vercel.app/), 
+
+I am Entry-level Full-Stack Developer. Student graduate in bootcamp July 2023, enthusiastic about developing scalable web applications and working across the full stack.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:lilkraceboy@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
