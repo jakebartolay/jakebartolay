@@ -31,4 +31,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jakebartolay&show_icons=true&theme=gotham" alt="jakebartolay" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jakebartolay&show_icons=true&theme=gotham" alt="jakebartolay" /> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jakebartolay&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
