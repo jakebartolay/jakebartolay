@@ -22,12 +22,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Bootcamp Graduate** - July 2023
+- 🎓 **BSIT Graduate** – Bestlink College of the Philippines  
+- 🎓 **Bootcamp Graduate** – July 2023  
 - 💡 Passionate about building **scalable web applications**
 - 🌱 Currently learning **advanced React patterns** and **cloud technologies**
-- 🤝 **Open-source enthusiast** - I love collaboration and knowledge sharing
+- 🤝 **Open-source enthusiast** – I love collaboration and knowledge sharing
 - 💼 Open for **freelance opportunities**
-- 💬 Ask me about **anything tech** - happy to help!
+- 💬 Ask me about **anything tech** – happy to help!
 - 📫 Reach me at: **jakebartolay147@gmail.com**
 
 <br/>
