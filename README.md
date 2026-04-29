@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Jake+Bartolay;Full-Stack+Developer+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Entry-level Full-Stack Developer | Bootcamp Graduate 2023</h3>
+<h3 align="center">🚀 BSIT Graduate | Entry-level Full-Stack Developer | Bootcamp Graduate 2023</h3>
 
 <p align="center">
   <a href="https://jakebartolay.vercel.app/">
