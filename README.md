@@ -61,12 +61,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jakebartolay&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jakebartolay&show_icons=true&theme=react&hide_border=true&border_radius=8" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jakebartolay&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakebartolay&theme=react" alt="GitHub Stats" width="49%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakebartolay&layout=compact&theme=react&hide_border=true&border_radius=8" alt="Top Languages" width="42%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakebartolay&theme=react" alt="Top Languages by Repo" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jakebartolay&theme=react" alt="Top Languages by Commit" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jakebartolay&theme=react&utcOffset=8" alt="Productive Time" width="32%" />
 </p>
 
 ---
@@ -76,7 +77,7 @@
 </p>
 
 <div align="center">
-  
+
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
